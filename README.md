@@ -7,3 +7,7 @@
 gitignore 적용했으나 계속 나타날 경우
 git rm --cached .idea -r
 
+# 2020-02-19
+롬북 설정
+
+return 'excelView' 를 ajax로 호출 할 경우 엑셀파일 받아지지 않음
